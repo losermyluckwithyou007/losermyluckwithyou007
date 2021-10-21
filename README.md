@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawan
-- 👀 I’m interested in Android , Web And Cyber Security
-- 🌱 I’m currently learning  Android , Web And Bug Bounty
+- 👀 I’m interested in Android and Web
+- 🌱 I’m currently learning  Android and Web 
 - 📫 How to reach me  losermyluckwithyou007@gmail.com
 
 <!---
