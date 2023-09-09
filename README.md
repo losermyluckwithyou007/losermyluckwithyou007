@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawan
 - 👀 I’m interested in Android and Web
-- 🌱 I’m currently learning  Android and Web 
+- 🌱 I’m currently learning  Java Full Stack Development 
 - 📫 How to reach me  losermyluckwithyou007@gmail.com
 
 <!---
